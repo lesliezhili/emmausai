@@ -1,0 +1,775 @@
+{
+  "common": {
+    "appName": "EmmausAI",
+    "tagline": "Camina con Jesús. Aprende con IA.",
+    "mission": "Educación bíblica con IA para todos los hijos de Dios — de gracia recibisteis, dad de gracia",
+    "verse": "\"¿No ardía nuestro corazón cuando nos hablaba en el camino?\" — Lucas 24:32",
+    "save": "Guardar",
+    "submit": "Enviar",
+    "cancel": "Cancelar",
+    "loading": "Cargando...",
+    "error": "Algo salió mal",
+    "success": "¡Éxito!",
+    "free": "100% Gratis — Mateo 10:8"
+  },
+  "nav": {
+    "home": "Inicio",
+    "courses": "Cursos",
+    "bibleStudy": "Estudio Bíblico",
+    "devotional": "Devocional Diario",
+    "community": "Comunidad",
+    "profile": "Mi Perfil",
+    "login": "Iniciar sesión",
+    "register": "Registrarse",
+    "logout": "Cerrar sesión"
+  },
+  "home": {
+    "heroTitle": "✝ EmmausAI",
+    "heroSubtitle": "Camina con Jesús. Aprende con IA.",
+    "heroDesc": "Educación bíblica gratuita con inteligencia artificial para todos — estudia las Escrituras, crece en fe, camina juntos en el camino de Emaús.",
+    "ctaStart": "Empezar a Aprender",
+    "ctaExplore": "Explorar Cursos",
+    "features": {
+      "title": "Cómo EmmausAI Te Ayuda a Crecer",
+      "aiTutor": {
+        "title": "Tutor Bíblico con IA",
+        "desc": "Pregunta sobre cualquier pasaje — obtén contexto, referencias cruzadas e insights históricos"
+      },
+      "courses": {
+        "title": "Cursos Estructurados",
+        "desc": "De Génesis a Apocalipsis — caminos guiados para nuevos creyentes y estudiantes avanzados"
+      },
+      "devotional": {
+        "title": "Devocional Diario",
+        "desc": "Reflexiones generadas por IA, fundamentadas en las Escrituras para tu caminar diario"
+      },
+      "community": {
+        "title": "Grupos de Estudio",
+        "desc": "Aprende junto con creyentes de todo el mundo — discute, ora, crece"
+      },
+      "multilingual": {
+        "title": "Todos los Idiomas",
+        "desc": "Estudia en tu idioma — Español, Inglés, Chino, Portugués, Coreano, Japonés"
+      },
+      "free": {
+        "title": "Siempre Gratis",
+        "desc": "\"De gracia recibisteis, dad de gracia\" — Mateo 10:8"
+      },
+      "audioBible": {
+        "title": "Biblia en Audio",
+        "desc": "Escucha las Escrituras en voz alta — perfecto para viajes, ejercicio o reflexión"
+      },
+      "readingPlan": {
+        "title": "Planes de Lectura",
+        "desc": "Planes de 365 días, estudios temáticos y guías libro por libro"
+      },
+      "kids": {
+        "title": "Niños y Familia",
+        "desc": "Historias bíblicas, cuestionarios y actividades apropiadas para niños y familias"
+      },
+      "churchFinder": {
+        "title": "Encuentra una Iglesia",
+        "desc": "Conéctate con iglesias locales — comunidades verificadas y acogedoras"
+      }
+    },
+    "inspiredBy": "Construido con tecnología gratuita. Inspirado por SilverConnect y GraceCovenant.",
+    "countries": {
+      "title": "Para Todas las Naciones Bajo Dios",
+      "subtitle": "Sirviendo a creyentes en más de 45 países en 6 continentes",
+      "more": "...y creyentes en toda nación. Mateo 28:19"
+    },
+    "languages": {
+      "title": "Estudia en Tu Idioma — 7 Idiomas"
+    },
+    "regions": {
+      "northAmerica": "Norteamérica",
+      "latinAmerica": "Latinoamérica",
+      "europe": "Europa",
+      "asiaPacific": "Asia Pacífico",
+      "africa": "África",
+      "middleEast": "Medio Oriente"
+    }
+  },
+  "courses": {
+    "title": "Cursos",
+    "subtitle": "Explora 42 cursos — educación bíblica y material VCE",
+    "lessons": "lecciones",
+    "startCourse": "Comenzar",
+    "categories": {
+      "all": "Todos",
+      "churchPlanting": "Plantación de Iglesias",
+      "apologetics": "Apologética",
+      "discipleship": "Discipulado",
+      "gospel": "Evangelio",
+      "bibleBooks": "Libros Bíblicos",
+      "christianLiving": "Vida Cristiana",
+      "leadership": "Liderazgo",
+      "missions": "Misiones",
+      "family": "Familia y Juventud",
+      "vocation": "Vocación y Trabajo",
+      "vce": "VCE (Victoria)"
+    },
+    "difficulty": {
+      "beginner": "Principiante",
+      "intermediate": "Intermedio",
+      "advanced": "Avanzado"
+    }
+  },
+  "bibleStudy": {
+    "title": "Estudio Bíblico con IA",
+    "subtitle": "Pregunta cualquier cosa sobre las Escrituras — impulsado por IA, fundamentado en la Palabra",
+    "placeholder": "Pregunta sobre cualquier pasaje, tema o cuestión bíblica...",
+    "disclaimer": "Las respuestas de IA son herramientas para el estudio — siempre verifica con las Escrituras y maestros confiables."
+  },
+  "devotional": {
+    "title": "Devocional Diario",
+    "subtitle": "Comienza tu día con la Palabra de Dios",
+    "today": "Devocional de Hoy",
+    "reflection": "Reflexión",
+    "prayer": "Oración",
+    "application": "Aplicación"
+  },
+  "community": {
+    "title": "Comunidad",
+    "subtitle": "Camina juntos — grupos de estudio, oración y comunión",
+    "studyGroups": "Grupos de Estudio",
+    "prayerWall": "Muro de Oración",
+    "discussions": "Discusiones"
+  },
+  "footer": {
+    "platform": "Plataforma",
+    "resources": "Recursos",
+    "freeStack": "Stack Gratuita: Next.js · Supabase · Vercel · AI SDK",
+    "inspiredBy": "Inspirado por SilverConnect y GraceCovenant",
+    "copyright": "EmmausAI — Para la gloria de Dios",
+    "verse": "\"Id y haced discípulos a todas las naciones\" — Mateo 28:19"
+  },
+  "auth": {
+    "loginTitle": "Bienvenido",
+    "loginSubtitle": "Inicia sesión para continuar",
+    "registerTitle": "Crear Cuenta",
+    "registerSubtitle": "Comienza tu viaje de aprendizaje",
+    "email": "Correo",
+    "emailPlaceholder": "tu@correo.com",
+    "password": "Contraseña",
+    "passwordPlaceholder": "Tu contraseña",
+    "passwordHint": "Mínimo 6 caracteres",
+    "name": "Nombre",
+    "namePlaceholder": "Tu nombre",
+    "loginButton": "Iniciar Sesión",
+    "registerButton": "Crear Cuenta",
+    "noAccount": "¿No tienes cuenta?",
+    "registerLink": "Regístrate",
+    "hasAccount": "¿Ya tienes cuenta?",
+    "loginLink": "Inicia sesión",
+    "loginSuccess": "¡Bienvenido! Redirigiendo...",
+    "registerSuccess": "¡Cuenta creada!",
+    "checkEmail": "Redirigiendo a cursos...",
+    "backToLogin": "Volver al login"
+  },
+  "courseDetail": {
+    "courses": "Cursos",
+    "notFound": "Curso no encontrado",
+    "notFoundDesc": "Este curso no existe o ha sido eliminado.",
+    "backToCourses": "Volver a Cursos",
+    "lessons": "Lecciones",
+    "minutes": "min",
+    "certificate": "Certificado",
+    "lessonPlan": "Plan de Lecciones",
+    "start": "Empezar",
+    "readyToStart": "¿Listo para empezar?",
+    "signUpPrompt": "Crea una cuenta gratis para seguir tu progreso.",
+    "createAccount": "Crear Cuenta",
+    "signIn": "Iniciar Sesión",
+    "startLesson": "Comenzar Lección",
+    "difficulty": "Dificultad",
+    "category": "Categoría",
+    "startCourse": "Empezar Curso"
+  },
+  "lesson": {
+    "courses": "Cursos",
+    "notFound": "Lección no encontrada",
+    "backToCourses": "Volver",
+    "lessonNum": "Lección",
+    "prevLesson": "Anterior",
+    "nextLesson": "Siguiente",
+    "completeCourse": "Completar Curso",
+    "aiTutor": "Tutor IA",
+    "aiWelcome": "¡Pregunta en español sobre esta lección!",
+    "aiContext": "Puedo explicar conceptos y responder preguntas en español.",
+    "aiThinking": "Pensando...",
+    "aiPlaceholder": "Haz una pregunta en español...",
+    "markComplete": "Marcar Completo",
+    "completed": "Completado",
+    "progress": "Progreso",
+    "translateNote": "Contenido en inglés. Usa el Tutor IA para preguntas en español."
+  },
+  "profile": {
+    "title": "Mi Aprendizaje",
+    "subtitle": "Sigue tu progreso",
+    "lessonsCompleted": "Lecciones",
+    "coursesStarted": "Iniciados",
+    "coursesFinished": "Completados",
+    "dayStreak": "Racha",
+    "myProgress": "Mis Cursos",
+    "noCourses": "Aún no has comenzado",
+    "browseCourses": "Ver Cursos",
+    "complete": "Completo"
+  },
+  "search": {
+    "title": "Buscar",
+    "placeholder": "Buscar cursos y lecciones...",
+    "results": "resultados",
+    "hint": "Escribe al menos 2 caracteres"
+  },
+  "certificate": {
+    "title": "Certificado",
+    "subtitle": "Educación Bíblica EmmausAI",
+    "presented": "Se otorga a",
+    "completed": "por completar",
+    "download": "Imprimir / PDF"
+  },
+  "flashcards": {
+    "title": "Memorización",
+    "reset": "Reiniciar",
+    "remaining": "restantes",
+    "total": "total",
+    "tapToReveal": "Toca para revelar",
+    "whatVerse": "¿Puedes recitar?",
+    "again": "Otra vez",
+    "gotIt": "¡Lo sé!",
+    "skip": "Saltar"
+  },
+  "courseNames": {
+    "t4t": {
+      "title": "T4T: Entrenando Entrenadores",
+      "desc": "Cada creyente entrena a otros que entrenan a otros."
+    },
+    "4fields": {
+      "title": "4 Campos: El Reino Crece",
+      "desc": "Cuatro etapas del crecimiento del reino como herramienta."
+    },
+    "zume": {
+      "title": "Zúme: Multiplicando Discípulos",
+      "desc": "Entrenamiento gratuito para movimientos de multiplicación."
+    },
+    "mere-christianity": {
+      "title": "Mero Cristianismo",
+      "desc": "El caso racional de la fe cristiana."
+    },
+    "gospel-of-john": {
+      "title": "El Evangelio de Juan",
+      "desc": "Conoce a Jesús a través del testimonio de Juan."
+    },
+    "romans": {
+      "title": "Romanos: El Corazón del Evangelio",
+      "desc": "Gracia, justificación y nueva vida."
+    },
+    "vce-religion-society": {
+      "title": "VCE Religión y Sociedad",
+      "desc": "Papel de la religión, ética y justicia social."
+    },
+    "vce-philosophy": {
+      "title": "VCE Filosofía",
+      "desc": "Conocimiento, existencia, ética y la buena vida."
+    },
+    "vce-maths-methods": {
+      "title": "VCE Métodos Matemáticos",
+      "desc": "Funciones, cálculo, probabilidad y estadística."
+    },
+    "vce-biology": {
+      "title": "VCE Biología",
+      "desc": "De células a ecosistemas — biología molecular y evolución."
+    },
+    "vce-psychology": {
+      "title": "VCE Psicología",
+      "desc": "Ciencia del comportamiento y procesos mentales."
+    },
+    "vce-history-revolutions": {
+      "title": "VCE Historia: Revoluciones",
+      "desc": "Causas y consecuencias de revoluciones significativas."
+    }
+  },
+  "lessonNames": {
+    "t4t": [
+      "The T4T Vision: Everyone a Trainer",
+      "The Three-Thirds Process",
+      "Looking Back: Pastoral Care",
+      "Looking Up: Discovery Bible Study",
+      "Looking Ahead: Practice & Goals",
+      "Sharing Your Story & God\\",
+      "Tracking Generational Growth",
+      "Overcoming Barriers to Multiplication",
+      "From T4T Group to Church"
+    ],
+    "4fields": [
+      "The Parable of the Sower & 4 Fields",
+      "Field 1: The Empty Field — Entry",
+      "Field 2: The Seeded Field — Gospel",
+      "Field 3: The Growing Field — Discipleship",
+      "Field 4: The Harvest — Church Formation",
+      "Leadership in the 4 Fields",
+      "Multiplication: Field to Field",
+      "Using 4 Fields as a Planning Tool"
+    ],
+    "zume": [
+      "God Uses Ordinary People",
+      "Simple Definition of Disciple & Church",
+      "Spiritual Breathing",
+      "SOAPS Bible Reading",
+      "Accountability Groups",
+      "Person of Peace",
+      "Prayer Cycle & Prayer Walking",
+      "Three-Thirds Group",
+      "Coaching & Duckling Discipleship",
+      "Vision for Multiplication"
+    ],
+    "mere-christianity": [
+      "Right and Wrong as a Clue to the Universe",
+      "What God Is Like",
+      "The Shocking Alternative",
+      "The Perfect Penitent",
+      "Counting the Cost",
+      "Faith",
+      "The Three-Personal God",
+      "Is Christianity Hard or Easy?"
+    ],
+    "purpose-driven-life": [
+      "It All Starts with God",
+      "You Are Not an Accident",
+      "What Drives Your Life?",
+      "Made to Last Forever",
+      "Seeing Life from God\\",
+      "You Were Planned for God\\",
+      "Shaped for Serving God",
+      "Made for a Mission"
+    ],
+    "gospel-of-john": [
+      "In the Beginning Was the Word",
+      "Water into Wine: The First Sign",
+      "You Must Be Born Again",
+      "The Woman at the Well",
+      "The Bread of Life",
+      "The Light of the World",
+      "The Good Shepherd",
+      "The Raising of Lazarus",
+      "The Farewell Discourse",
+      "The High Priestly Prayer",
+      "The Cross and Resurrection",
+      "Do You Love Me?"
+    ],
+    "vce-religion-society": [
+      "Unit 1: The Role of Religion in Society",
+      "Unit 1: Religion and Ethics",
+      "Unit 2: Religion and the Human Experience",
+      "Unit 2: Religion, Challenge and Change",
+      "Unit 3: The Search for Meaning",
+      "Unit 3: Ethics and Moral Decision-Making",
+      "Unit 4: Religion and Social Justice",
+      "Unit 4: Religion, Diversity and Harmony",
+      "Exam Practice: 2023 Paper",
+      "Exam Practice: 2022 Paper",
+      "Exam Practice: 2021 Paper",
+      "Exam Practice: 2020 Paper",
+      "Exam Practice: 2019 Paper",
+      "Exam Practice: 2018 Paper",
+      "Exam Practice: 2017 Paper",
+      "Exam Practice: 2016 Paper",
+      "Examiner Report & Key Findings"
+    ],
+    "vce-texts-traditions": [
+      "Unit 1: Texts in Traditions",
+      "Unit 1: Texts in Society",
+      "Unit 2: Texts and the Search for Meaning",
+      "Unit 2: Texts and Human Experience",
+      "Unit 3: Sacred Texts and their Contexts",
+      "Unit 3: Interpreting Texts",
+      "Unit 4: Texts and Issues in Society",
+      "Unit 4: Texts and Ethical Living",
+      "Exam Practice: 2023 Paper",
+      "Exam Practice: 2022 Paper",
+      "Exam Practice: 2021 Paper",
+      "Exam Practice: 2020 Paper",
+      "Exam Practice: 2019 Paper",
+      "Exam Practice: 2018 Paper",
+      "Exam Practice: 2017 Paper",
+      "Exam Practice: 2016 Paper",
+      "Examiner Report & Key Findings"
+    ],
+    "vce-philosophy": [
+      "Unit 1: Existence, Knowledge and Reasoning",
+      "Unit 1: Questions of Value",
+      "Unit 2: The Good Life",
+      "Unit 2: Minds, Bodies and Persons",
+      "Unit 3: Minds, Bodies and Persons",
+      "Unit 3: The Good Life and Ethics",
+      "Unit 4: The Examined Life",
+      "Unit 4: Justice and Society",
+      "Exam Practice: 2023 Paper",
+      "Exam Practice: 2022 Paper",
+      "Exam Practice: 2021 Paper",
+      "Exam Practice: 2020 Paper",
+      "Exam Practice: 2019 Paper",
+      "Exam Practice: 2018 Paper",
+      "Exam Practice: 2017 Paper",
+      "Exam Practice: 2016 Paper",
+      "Examiner Report & Key Findings"
+    ],
+    "vce-english": [
+      "Unit 1: Reading and Responding",
+      "Unit 1: Creating Texts",
+      "Unit 2: Reading and Comparing Texts",
+      "Unit 2: Crafting Texts",
+      "Unit 3: Reading and Creating Texts",
+      "Unit 3: Analysing Argument",
+      "Unit 4: Reading and Comparing Texts",
+      "Unit 4: Presenting Argument",
+      "Exam Practice: 2023 Paper",
+      "Exam Practice: 2022 Paper",
+      "Exam Practice: 2021 Paper",
+      "Exam Practice: 2020 Paper",
+      "Exam Practice: 2019 Paper",
+      "Exam Practice: 2018 Paper",
+      "Exam Practice: 2017 Paper",
+      "Exam Practice: 2016 Paper",
+      "Examiner Report & Key Findings"
+    ],
+    "vce-maths-methods": [
+      "Unit 1: Functions and Graphs",
+      "Unit 1: Algebra, Number and Structure",
+      "Unit 2: Calculus — Rates of Change",
+      "Unit 2: Probability and Statistics",
+      "Unit 3: Functions and Calculus",
+      "Unit 3: Algebra and Applications",
+      "Unit 4: Probability and Statistical Inference",
+      "Unit 4: Integration and Applications",
+      "Exam Practice: 2023 Paper 1 (Technology-Free)",
+      "Exam Practice: 2023 Paper 2 (Technology-Active)",
+      "Exam Practice: 2022 Papers",
+      "Exam Practice: 2021 Papers",
+      "Exam Practice: 2020 Papers",
+      "Exam Practice: 2018 Paper 1",
+      "Exam Practice: 2018 Paper 2",
+      "Exam Practice: 2017 Papers",
+      "Exam Practice: 2016 Papers",
+      "Examiner Report & Key Findings"
+    ],
+    "vce-biology": [
+      "Unit 1: How Do Cells Function?",
+      "Unit 1: How Do Plant and Animal Systems Function?",
+      "Unit 2: How Is Inheritance Explained?",
+      "Unit 2: How Do Organisms Change Over Time?",
+      "Unit 3: How Do Cells Maintain Life?",
+      "Unit 3: How Is Biological Diversity Generated?",
+      "Unit 4: How Does Life Change and Respond?",
+      "Unit 4: How Is Continuity of Life Maintained?",
+      "Exam Practice: 2023 Paper",
+      "Exam Practice: 2022 Paper",
+      "Exam Practice: 2021 Paper",
+      "Exam Practice: 2020 Paper",
+      "Exam Practice: 2019 Paper",
+      "Exam Practice: 2018 Paper",
+      "Exam Practice: 2017 Paper",
+      "Exam Practice: 2016 Paper",
+      "Examiner Report & Key Findings"
+    ],
+    "vce-psychology": [
+      "Unit 1: How Are Behaviour and Mental Processes Shaped?",
+      "Unit 1: Brain and Nervous System",
+      "Unit 2: How Do External Factors Influence Behaviour?",
+      "Unit 2: Individual Differences in Behaviour",
+      "Unit 3: How Does the Nervous System Enable Behaviour?",
+      "Unit 3: How Do People Learn and Remember?",
+      "Unit 4: How Is Wellbeing Developed and Maintained?",
+      "Unit 4: How Does Experience Affect Behaviour?",
+      "Exam Practice: 2023 Paper",
+      "Exam Practice: 2022 Paper",
+      "Exam Practice: 2021 Paper",
+      "Exam Practice: 2020 Paper",
+      "Exam Practice: 2019 Paper",
+      "Exam Practice: 2018 Paper",
+      "Exam Practice: 2017 Paper",
+      "Exam Practice: 2016 Paper",
+      "Examiner Report & Key Findings"
+    ],
+    "vce-history-revolutions": [
+      "Unit 3: French Revolution — Causes",
+      "Unit 3: French Revolution — Consequences",
+      "Unit 3: Russian Revolution — Causes",
+      "Unit 3: Russian Revolution — Consequences",
+      "Unit 4: American Revolution — Causes",
+      "Unit 4: American Revolution — Consequences",
+      "Unit 4: Chinese Revolution — Causes",
+      "Unit 4: Chinese Revolution — Consequences",
+      "Exam Practice: 2023 Paper",
+      "Exam Practice: 2022 Paper",
+      "Exam Practice: 2021 Paper",
+      "Exam Practice: 2020 Paper",
+      "Exam Practice: 2019 Paper",
+      "Exam Practice: 2018 Paper",
+      "Exam Practice: 2017 Paper",
+      "Exam Practice: 2016 Paper",
+      "Examiner Report & Key Findings"
+    ],
+    "cpm": [
+      "What Is a Church Planting Movement?",
+      "Extraordinary Prayer",
+      "Abundant Evangelism",
+      "Intentional Planting",
+      "Authority of the Bible",
+      "Local Leadership",
+      "Lay Leaders",
+      "House Churches",
+      "Churches Planting Churches",
+      "Rapid Reproduction"
+    ],
+    "dmm": [
+      "What Is a DMM?",
+      "Discovery Bible Study",
+      "Person of Peace",
+      "Obedience-Based Discipleship",
+      "Church Formation",
+      "Leadership Development",
+      "Movement Principles"
+    ],
+    "vpt": [
+      "Casting Vision",
+      "Assessing the Field",
+      "Developing Strategy",
+      "Building Teams",
+      "Training Leaders",
+      "Launching Churches",
+      "Multiplying",
+      "Overcoming Obstacles",
+      "Sustaining Growth",
+      "Movement Dynamics"
+    ],
+    "dcpi-essentials": [
+      "The Biblical Mandate",
+      "Phase 1: Preparation",
+      "Phase 2: Planting",
+      "Phase 3: Growing",
+      "Phase 4: Structuring",
+      "Phase 5: Reproducing",
+      "Leadership Essentials",
+      "Multiplication Culture"
+    ],
+    "dcpi-multiplying": [
+      "Global Multiplication Vision",
+      "Cross-Cultural Planting",
+      "Developing National Leaders",
+      "Overcoming Barriers",
+      "Sustainable Models",
+      "Movement Assessment"
+    ],
+    "dcpi-toolkit": [
+      "Community Analysis",
+      "Team Building",
+      "Fundraising Basics",
+      "Launch Planning",
+      "First Gathering",
+      "Growth Strategies",
+      "Reproduction Planning"
+    ],
+    "reason-for-god": [
+      "There Cant Be Just One True Religion",
+      "A Good God Wouldnt Allow Suffering",
+      "Christianity Is a Straitjacket",
+      "The Church Is Responsible for Injustice",
+      "A Loving God Wouldnt Send People to Hell",
+      "Science Has Disproved Christianity",
+      "The Clues of God",
+      "The Knowledge of God"
+    ],
+    "knowing-god": [
+      "The Study of God",
+      "The People Who Know Their God",
+      "Knowing and Being Known",
+      "God Incarnate",
+      "Gods Wisdom",
+      "Gods Love",
+      "Gods Grace",
+      "The Adequacy of God"
+    ],
+    "cost-of-discipleship": [
+      "Costly Grace",
+      "The Call to Discipleship",
+      "Single-Minded Obedience",
+      "Discipleship and the Cross",
+      "The Visible Community",
+      "The Saints and the Secular"
+    ],
+    "foundations-of-faith": [
+      "Who Is God?",
+      "Who Is Jesus?",
+      "The Holy Spirit",
+      "The Bible",
+      "Salvation by Grace",
+      "Life in the Church"
+    ],
+    "prayer-disciplines": [
+      "Why Pray?",
+      "The Lords Prayer",
+      "Listening Prayer",
+      "Fasting",
+      "Scripture Meditation",
+      "Solitude and Silence",
+      "Journaling",
+      "Corporate Prayer"
+    ],
+    "prayer-keller": [
+      "The Necessity of Prayer",
+      "What Is Prayer?",
+      "Learning from the Psalms",
+      "The Practice of Meditation",
+      "Prayer as Conversation",
+      "Developing a Rule of Prayer"
+    ],
+    "ruthless-elimination": [
+      "The Problem of Hurry",
+      "The Solution of Slowing",
+      "Silence and Solitude",
+      "Sabbath",
+      "Simplicity",
+      "Presence Over Productivity"
+    ],
+    "emmaus-road": [
+      "The Road to Emmaus",
+      "Recognizing Jesus in Scripture",
+      "Breaking Bread Together",
+      "Burning Hearts",
+      "Testimony and Witness",
+      "Daily Walking",
+      "Community on the Road"
+    ],
+    "prodigal-god": [
+      "The Two Lost Sons",
+      "The Younger Brother",
+      "The Elder Brother",
+      "The Fathers Love",
+      "The Feast of Grace"
+    ],
+    "meaning-of-marriage": [
+      "The Secret of Marriage",
+      "The Power for Marriage",
+      "The Essence of Marriage",
+      "The Mission of Marriage",
+      "Loving the Stranger",
+      "Embracing the Other",
+      "Singleness and Marriage",
+      "Sex and Marriage"
+    ],
+    "meaning-of-work": [
+      "Work Matters to God",
+      "Work as Cultivation",
+      "Work as Service",
+      "Work and Idolatry",
+      "Work and the Gospel",
+      "Work and Ethics",
+      "Work and Rest"
+    ],
+    "wild-at-heart": [
+      "Wild at Heart",
+      "The Wound",
+      "The Battle",
+      "The Adventure",
+      "The Beauty",
+      "Writing the Next Chapter"
+    ],
+    "women-of-bible": [
+      "Sarah: Trusting Gods Promise",
+      "Ruth: Loyalty and Love",
+      "Esther: Courage for Such a Time",
+      "Mary: The Handmaid of the Lord",
+      "Mary Magdalene: First Witness",
+      "Priscilla: Teaching the Way",
+      "Hannah: Prayer and Surrender",
+      "Deborah: Leading with Wisdom"
+    ],
+    "servant-leadership": [
+      "Jesus Washes Feet",
+      "Leading by Serving",
+      "Empowering Others",
+      "Humility in Leadership",
+      "Vision Casting",
+      "Multiplying Leaders"
+    ],
+    "parenting": [
+      "Parenting as Discipleship",
+      "Grace-Based Parenting",
+      "Teaching Gods Word",
+      "Modeling Faith",
+      "Discipline with Love",
+      "Releasing and Trusting God"
+    ],
+    "youth-foundations": [
+      "Who Is God?",
+      "Who Am I?",
+      "The Bible",
+      "Prayer",
+      "Community",
+      "Sharing Faith",
+      "Handling Doubt",
+      "Living It Out"
+    ],
+    "romans": [
+      "The Gospel Revealed",
+      "The Human Problem",
+      "Justification by Faith",
+      "Peace with God",
+      "Dead to Sin",
+      "The Struggle Within",
+      "Life in the Spirit",
+      "Nothing Separates Us",
+      "Living Sacrifices",
+      "Love Fulfills the Law"
+    ],
+    "genesis": [
+      "Creation",
+      "The Image of God",
+      "The Fall",
+      "Cain and Abel",
+      "Noah and the Flood",
+      "The Tower of Babel",
+      "Abrahams Call",
+      "The Covenant",
+      "Isaac and Sacrifice",
+      "Joseph: Gods Sovereignty"
+    ],
+    "psalms": [
+      "The Two Ways",
+      "The Good Shepherd",
+      "Create in Me a Clean Heart",
+      "God Our Refuge",
+      "Praise the Lord",
+      "The Word Is a Lamp",
+      "Where Can I Go?",
+      "Out of the Depths",
+      "Let Everything Praise",
+      "The Heavens Declare"
+    ],
+    "biblical-evangelism": [
+      "The Great Commission Today",
+      "Your Personal Testimony",
+      "Listening and Asking Questions",
+      "Digital Platforms for Gospel",
+      "Overcoming Fear"
+    ],
+    "financial-stewardship": [
+      "God Owns Everything",
+      "Contentment",
+      "Generous Giving",
+      "Avoiding Debt",
+      "Saving Wisely",
+      "Eternal Investment"
+    ],
+    "nations-be-glad": [
+      "The Supremacy of God in Missions",
+      "Worship: The Goal of Missions",
+      "The Necessity of the Gospel",
+      "Suffering in Missions",
+      "Prayer: The Power of Missions",
+      "Sending and Going"
+    ]
+  }
+}
